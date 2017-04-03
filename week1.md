@@ -11,13 +11,13 @@ This is just an example of the platform you'll be using most of your time.
 ### First starting
 When I started I wondered why the platform used numbers as sounds. Later on in the examples they told me that the numbers are like a key on a piano.
 
-C 
-D
-E
-F
-G
-A
-B
+| C | 
+| D |
+| E |
+| F |
+| G |
+| A |
+| B |
 <br>
 60
 62
@@ -39,6 +39,7 @@ B
   play 67
   sleep 0.5
 end
+```
 
  * This code snipet above ^ would run the loop 2 times and after that it will stop.
  
