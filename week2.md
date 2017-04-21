@@ -18,3 +18,4 @@ Basically it's a library of looped sounds that can be used for a background beat
 <img src="Sample.png">
 <br>
 ^ This is the most helpful thing to have because when you don't remember samples or synths, they're here for you.
+Sythns are                           
