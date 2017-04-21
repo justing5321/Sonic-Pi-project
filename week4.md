@@ -11,6 +11,7 @@ So basically what I found out when I was tinkering is to use something useful ca
 <br>
 <br>
 <img src="Lang.png">
+<br>
 This has all syntax in Sonic pi and will save your life!
 
  ### *Attack*
