@@ -28,7 +28,7 @@ As you can see the lang cheatsheet gives you the correct syntax, definitions, an
 
 ### Challenges
 ====================
-I guess a little challenge I faced was tinkering with the examples that were given. When it gave me the example, I typed up the code and it still wasn't working. I looked at everything including lang but still no use. Im still trying to figure it out but I think it's minor.
+- I guess a little challenge I faced was tinkering with the examples that were given. When it gave me the example, I typed up the code and it still wasn't working. I looked at everything including lang but still no use. Im still trying to figure it out but I think it's minor.
 
 ### Hightlights/Things to know
 Tinkering is a major key!
