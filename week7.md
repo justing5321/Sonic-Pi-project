@@ -11,7 +11,7 @@ This week is going to be crunch time. I've been working on this little song for 
 
 ### Takeaways
 ====================
-
+- A takeaway I have from working on this project is tinker, tinker, and tinker more. You are never going to know what you want exactly but just putting different sounds together can creat a song. Also I listened to more music to find out different riffs people use in their songs and try to manipulate it in Sonic Pi,
 
 ### Challenges
 ====================
